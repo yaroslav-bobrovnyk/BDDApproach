@@ -1,0 +1,288 @@
+2020-09-02 17:19:01,740 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-02 17:20:05,281 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-02 17:21:07,873 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-02 17:21:43,519 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-02 17:25:16,903 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 17:25:40,760 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:04:50,780 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:05:57,635 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:06:09,546 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:07:25,418 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:07:31,333 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:09:23,493 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 10:44:32,679 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:06:47,547 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:06:56,477 INFO c.c.p.PlayersPage [main] Was found [[[ChromeDriver: chrome on MAC (6ab260f429c66210223149091f8c30f3)] -> css selector: div#searchResults .player-card]] result matchingTiger
+2020-09-03 11:06:56,655 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:09:33,999 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:09:40,060 INFO c.c.p.PlayersPage [main] Was found 1 result matchingTiger
+2020-09-03 11:09:40,209 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:15:31,027 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:15:38,718 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 11:15:38,882 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:16:25,687 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:16:31,993 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 11:16:32,152 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:32:16,612 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:32:24,619 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 11:32:24,781 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:32:34,245 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 11:34:13,617 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:34:19,971 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 11:34:20,135 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:34:29,937 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 11:36:08,543 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 11:36:21,906 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 11:36:24,395 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 11:36:38,721 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:54:09,641 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 12:54:19,626 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 12:55:17,268 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:55:27,081 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 12:55:27,127 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:55:37,478 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:55:37,502 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:57:07,851 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:57:16,492 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 12:57:16,521 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:57:27,819 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:57:28,149 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 12:57:38,481 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 12:57:38,516 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 12:57:56,104 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:57:56,119 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 12:58:02,415 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 12:58:32,469 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:58:38,755 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 12:58:38,786 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:58:49,740 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:58:49,775 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 12:59:34,300 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:59:41,141 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 12:59:41,180 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:59:52,416 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:59:52,439 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:01:13,424 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:01:19,689 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:01:19,826 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:01:30,106 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:01:30,253 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:02:02,516 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:02:10,264 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:04:02,595 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:04:10,206 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:04:10,361 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:04:20,115 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:04:20,252 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:04:27,813 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:04:30,270 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:04:42,442 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:04:45,847 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:05:06,599 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:05:29,476 INFO f.WebFactory [main] Драйвер IE поднят
+2020-09-03 13:05:30,015 INFO f.WebFactory [main] Драйвер IE поднят
+2020-09-03 13:07:52,136 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:07:58,161 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:08:02,696 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:08:36,370 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:08:41,924 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:09:41,106 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:09:46,325 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:10:16,584 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:10:21,742 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:10:26,911 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:10:41,143 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:10:47,487 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:10:47,662 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:21:27,661 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:21:44,255 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:21:58,125 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:22:03,097 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:26:59,858 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:27:09,142 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:27:09,332 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:27:19,352 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:27:19,491 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:27:27,089 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:27:29,572 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:27:41,270 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:27:43,730 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:27:49,632 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:28:04,020 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:28:05,200 INFO f.WebFactory [main] Драйвер IE поднят
+2020-09-03 13:28:05,789 INFO f.WebFactory [main] Драйвер IE поднят
+2020-09-03 14:19:47,436 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 14:19:56,900 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 14:19:57,080 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 14:20:06,871 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 14:20:07,005 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 14:27:06,819 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 14:27:18,639 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 14:27:18,797 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 14:27:33,968 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-09-03 19:27:48,004 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:27:50,565 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:28:54,065 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:28:56,090 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:30:22,511 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:30:41,660 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:42:34,248 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:42:41,271 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:42:47,141 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:42:53,462 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:43:03,993 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:43:11,877 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:43:20,188 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:43:26,514 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:43:32,640 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:43:38,761 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:46:11,564 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 19:46:28,176 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 19:46:42,700 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 19:46:55,352 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 19:47:07,256 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 19:47:21,442 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 19:47:32,368 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 19:47:44,268 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 19:47:57,896 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 19:48:10,755 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 19:49:31,425 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 19:49:38,923 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 19:49:59,808 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 19:50:21,915 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 19:50:43,119 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 19:51:04,719 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 19:51:25,625 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 19:51:31,627 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 19:51:36,822 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 19:51:58,119 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 19:58:33,536 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:58:42,153 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:58:49,105 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:59:01,186 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:59:11,589 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:59:19,348 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:59:29,826 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:59:37,807 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:59:46,143 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 19:59:54,110 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-03 20:00:34,069 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:00:47,976 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:01:01,579 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:01:18,860 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:01:34,560 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:02:02,874 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:02:18,850 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:02:48,725 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:03:01,196 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:03:17,441 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:08:08,790 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:08:25,103 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:08:39,046 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:08:52,094 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:09:05,643 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:09:32,597 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:09:46,151 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:10:14,170 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:10:29,254 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:10:41,255 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:19:17,569 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:19:32,503 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:19:46,034 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:19:59,657 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:20:15,276 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:20:31,383 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:20:32,803 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:20:46,984 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:20:57,543 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:21:08,451 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:23:01,343 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:23:12,635 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:23:23,633 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:23:33,373 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:23:45,784 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:23:57,084 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:24:08,941 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:24:21,063 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:24:32,928 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-03 20:24:43,700 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-07 16:21:03,239 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:21:11,403 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:21:17,311 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:21:26,032 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:21:34,040 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:21:41,076 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:21:47,866 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:22:08,322 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:22:14,648 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:22:20,304 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:24:36,055 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:24:45,640 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:24:51,181 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:24:57,324 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:25:05,948 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:25:27,867 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:25:34,956 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:25:56,415 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:26:03,332 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:26:09,025 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:28:17,213 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:28:25,017 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:28:31,301 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:28:38,791 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:28:46,805 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:29:09,452 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:29:16,151 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:29:37,174 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:29:43,090 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:29:49,127 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:30:25,865 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:30:32,765 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:30:39,027 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:30:45,865 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:30:52,696 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:30:59,975 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:31:06,440 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:31:27,048 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:31:35,061 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:31:43,374 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:32:58,864 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:33:06,773 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:33:14,192 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:33:22,864 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:33:31,600 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:33:53,344 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:34:02,198 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:34:09,768 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:34:17,184 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:34:23,882 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:36:29,670 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:36:37,414 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:36:43,012 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:36:49,443 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:36:58,091 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:37:03,649 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:37:09,852 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:37:16,105 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:37:22,769 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:37:28,286 INFO f.WebFactory [main] Driver Chrome was up
+2020-09-07 16:37:53,090 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-07 16:38:07,594 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-07 16:38:18,797 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-07 16:38:33,093 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-07 16:38:57,555 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-07 16:39:07,804 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-07 16:39:19,143 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-07 16:39:30,695 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-07 16:39:41,475 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-07 16:39:52,603 INFO f.WebFactory [main] Driver Firefox was up
+2020-09-07 16:40:41,412 INFO f.WebFactory [main] Driver Safari was up
+2020-09-07 16:40:47,456 INFO f.WebFactory [main] Driver Safari was up
+2020-09-07 16:41:07,866 INFO f.WebFactory [main] Driver Safari was up
+2020-09-07 16:41:28,500 INFO f.WebFactory [main] Driver Safari was up
+2020-09-07 16:41:51,152 INFO f.WebFactory [main] Driver Safari was up
+2020-09-07 16:42:11,200 INFO f.WebFactory [main] Driver Safari was up
+2020-09-07 16:42:30,491 INFO f.WebFactory [main] Driver Safari was up
+2020-09-07 16:42:36,132 INFO f.WebFactory [main] Driver Safari was up
+2020-09-07 16:42:40,989 INFO f.WebFactory [main] Driver Safari was up
+2020-09-07 16:43:01,273 INFO f.WebFactory [main] Driver Safari was up
