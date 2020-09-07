@@ -1,4 +1,4 @@
-# Selenium Homework
+# BDD approach Homework
 
 ## Installation
 This assumes you have **Maven 3+**, **Git** and **Java 8** installed.
